@@ -8,18 +8,35 @@
 
 * 
 ## **Responsibilities**
+* Mobilize and demobilize the Ark IT infrastructure
+* Capture, file and report Zone Survey and Incident Report information
+* Periodically create reports for Town
+    * LAH Town EOC "Situational Status" report (LAH-104) *every 4-6 hours*
+    * Summary of Zone Survey (status & % complete) *every 2-3 hours*
+    * Other queries as requested
+* Email to/from LAH and SCC EOC, *if available.*
+* IT support for Ark operations, *on request, as time permits.*
 
-* 
 ## **Location of Duties**
 
 CERT work area with-in yellow barricade tape.
+Work in IT tent, coordinate with Scribe/Planning
 
 ## **Material Needed**
 
-* 
+* Tent
+* Table, chairs
+* AC power strips
+* Windows laptop computers (2)
+* Multifunction printer/copier/scanner
+* LAHCFD CERT IT Ops Manual 
+* Local Wi-Fi router
+* Wi-Fi bridge to Fire Station internet
+
 ## **Immediate Actions \(within first hour\):**
 
-* 
+* Set up equipment
+* Verify LAH EOC is internet capable
 ## **Continuing Actions:**
 
 * 
