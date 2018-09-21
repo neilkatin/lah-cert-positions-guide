@@ -1,10 +1,10 @@
-# **Staging Team**
+# Staging Team
 
-## **Description**
+## Description
 
 The Staging team is responsible to keep all CERT’s in Staging until they are assigned. Use T-Card to check them in and track assignments and activities.
 
-## **Responsibility**
+## Responsibility
 
 * Reports to the Logistics Lead.
 * Assign CERT members from Staging to Assignment From Operations Lead
@@ -12,11 +12,11 @@ The Staging team is responsible to keep all CERT’s in Staging until they are a
 * Collect and Track CERT members using T Card system on A frame board.
 * Check CERT members have proper PPE. If CERT member does not have proper PPE, they can be possibly utilized in the ARK Command area.
 
-## **Location of Duties**
+## Location of Duties
 
  See ARK Command Post map.
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Incident Command Plastic Bin, Staging team Bag
 
@@ -41,7 +41,7 @@ Other items to obtain:
 * 4’ x 4’ white board \(to hold large zone map\)
 * Staging & Assignment board for tent
 
-## **Immediate Actions**
+## Immediate Actions
 
 * Put On Staging team vest.
 * Check out a Radio from the Communications team
@@ -49,7 +49,7 @@ Other items to obtain:
 * When CERT’s arrive from Check In team with their T Cards, collect T Card and place it in the Staging Available slot on the T Card Board. When Staging team receives a Written Request from the Operations Lead, assign appropriate personnel to the assignment. Track the CERT’s T Card by placing it in the CERT Field Assigned, ARK Assigned or Recon. If the CERT member advises they are going home or done for the day at the incident, place their T- Card in the Off Duty Slot
 * Provide Safety Briefing to CERT’s prior to them being assigned to the field.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Assign CERT members from Staging to Operations Lead Requests.
 * Provide CERT’s with zone maps and address’ from file box if they are checking zones.

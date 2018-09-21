@@ -1,10 +1,10 @@
-# **Communications team**
+# Communications team
 
-## **Description**
+## Description
 
 The CERT Communications team is responsible for all incoming and out going communications, including phone, text, GMRS radio traffic and work closely with ham radio operators in the ARK.
 
-## **Responsibilities**
+## Responsibilities
 
 * Reports to the Operations Lead
 
@@ -22,11 +22,11 @@ The CERT Communications team is responsible for all incoming and out going commu
 
 * Attempt to make contact with the Town of Los Altos Hills EOC that communications with them are operational at 650-947-7249.
 
-## **Location of Duties**
+## Location of Duties
 
 * Inside the ARK, left side near the GMRS Radios.
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Incident Command Plastic Bin
 
@@ -37,7 +37,7 @@ This material is stored in the Incident Command Plastic Bin
 * CERT Roster
 * General Message Form 213.
 
-## **Immediate Actions \(within first hour\):**
+## Immediate Actions \(within first hour\):
 
 * Put on the Communications team vest and review the Communications team job description.
 
@@ -51,7 +51,7 @@ This material is stored in the Incident Command Plastic Bin
 
 * Critical information received via phone, text, GMRS radio fill out a 3 Part Incident Report form: First page to Scribe, second page to Ham Radio, keep third page for your records. Advise IC of all Emergency and Urgent messages.
 
-## **Continuing Actions:**
+## Continuing Actions:
 
 * Continually monitor and test the activated radio and telephone systems. Keep the Incident Commander informed of system failures.
 

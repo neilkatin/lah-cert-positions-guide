@@ -1,17 +1,17 @@
 
-# **Operations Lead**
+# Operations Lead
 
-## **Description**
+## Description
 
 The CERT Operations Lead is designated by the Incident Commander \(IC\) and is a General Staff position on the CERT IC’s team. Operations Lead is the focal point for tactical response to incident needs and plans.
 
-## **Missions**
+## Missions
 
 * Implement the IC’s directions, set up the ARK and CERT work area \(see map\), assist in making personnel assignments to the CERT ARK.
 
 * Assign people to needed tasks while keeping in mind that personal safety is the foremost responsibility that any CERT has.
 
-## **Responsibilities**
+## Responsibilities
 
 * Operations Lead reports directly to the Incident Commander.
 
@@ -29,11 +29,11 @@ The CERT Operations Lead is designated by the Incident Commander \(IC\) and is a
 
 * Maintain security of the ARK operating area.
 
-## **Location of Duties**
+## Location of Duties
 
 CERT work area with-in yellow barricade tape.
 
-## **Material Needed**
+## Material Needed
 
 This material is stored in the Incident Command Plastic Bin
 
@@ -51,7 +51,7 @@ This material is stored in the Incident Command Plastic Bin
 * White board with Large Org Chart
 * A frame barricade for holding Org Chart.
 
-## **Immediate Actions \(within first hour\):**
+## Immediate Actions \(within first hour\):
 
 * Don the Operations Lead vest & review Operations Lead job description.
 
@@ -59,7 +59,7 @@ This material is stored in the Incident Command Plastic Bin
 
 * Verify the Communications Lead has set up the Engenius Phone System inside the fire station and Ark is set up and operational.
 
-## **Continuing Actions:**
+## Continuing Actions:
 
 * With Incident Commander and the Command staff, review the ARK Incident Map and the Incident Status Sheets that are maintained by the Scribe.
 

@@ -1,10 +1,10 @@
-# **Scribe**
+# Scribe
 
-## **Description**
+## Description
 
 The Scribe is responsible for receiving data and information from the Communication and/or Operations Lead and placing such information in assigned areas on the ARK boards.
 
-## **Responsibilities**
+## Responsibilities
 
 * Reports to Operations Lead.
 
@@ -12,11 +12,11 @@ The Scribe is responsible for receiving data and information from the Communicat
 
 * Update Large Zone Map, Incident Status Sheets.
 
-## **Location of Duties**
+## Location of Duties
 
 On the right side of the ARK, near where the white boards mount to the ARK.
 
-## **Material Needed**
+## Material Needed
 
 This material is stored in the Incident Command Plastic Bin
 
@@ -42,7 +42,7 @@ Additional materials needed in the ARK:
 * \(1\) 20” x 48” small black table
 * \(1\) black folding stool.
 
-## **Immediate Actions \(within first hour\)**
+## Immediate Actions \(within first hour\)
 
 * Put on the Scribe vest and review the Scribe job description.
 
@@ -52,7 +52,7 @@ Additional materials needed in the ARK:
 
 * Track all incident reports and other important information on CERT Status sheet, track what zones are active or completed on large zone map, fill in all information on Status Sheet.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Once set up is complete, continue to monitor all incidents written on tracking status sheet, with all information filled in.
 

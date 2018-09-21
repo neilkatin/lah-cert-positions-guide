@@ -1,13 +1,13 @@
 # IT Team
 
-## **Description**
+## Description
 
 
 
-## **Missions**
+## Missions
 
 * 
-## **Responsibilities**
+## Responsibilities
 * Mobilize and demobilize the Ark IT infrastructure
 * Capture, file and report Zone Survey and Incident Report information
 * Periodically create reports for Town
@@ -18,12 +18,12 @@
 * Relay email to/from LAH and SCC EOC -- *if available.*
 * Technical support for Ark operations -- *on request, as time permits.*
 
-## **Location of Duties**
+## Location of Duties
 
 CERT work area with-in yellow barricade tape.
 Work in IT tent, coordinate with Scribe/Planning
 
-## **Material Needed**
+## Material Needed
 
 * Tent
 * Table, chairs
@@ -34,12 +34,12 @@ Work in IT tent, coordinate with Scribe/Planning
 * Local Wi-Fi router
 * Wi-Fi bridge to Fire Station internet
 
-## **Immediate Actions \(within first hour\):**
+## Immediate Actions \(within first hour\):
 
 * Set up equipment
 * Verify LAH EOC is internet capable, announce Ark status
 
-## **Continuing Actions:**
+## Continuing Actions:
 * Generate zone survey result reports
 * Generate LAH-104 incident report, discuss with IC, send to town.
 

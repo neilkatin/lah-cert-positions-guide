@@ -1,10 +1,10 @@
 # CERT Check-in Position
 
-## **Description**
+## Description
 
 The Check-In position is responsible for accurately checking in and out all Disaster Service Workers, including CERTs, Ham Radio Operators and Emergency Officials. When CERTs or others leave the CERT ARK area to go home for the end of their shift, they must check out at the Check-In station.
 
-## **Responsibility:**
+## Responsibility:
 
 * Reports to the Operations Lead.
 
@@ -14,11 +14,11 @@ The Check-In position is responsible for accurately checking in and out all Disa
 
 * Hand a colored wristband \(color changes at midnight each day\) to the CERT and have them place it on their wrist. Go to the CERT Check-In T-card box, find their name, pull their card, USING A PENCIL note the date and time on the T-card, hand the T-card to the CERT member and have them report to the Staging team with their proper PPE.
 
-## **Location of Duties**
+## Location of Duties
 
 See ARK Command Post map.
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Check-In team plastic bin:
 
@@ -47,7 +47,7 @@ This material is stored in the Check-In team plastic bin:
 * 6’ table \(1\)
 * Folding Chairs \(2\)
 
-## **Immediate Actions**
+## Immediate Actions
 
 * Check out a radio from the Communications team.
 
@@ -67,7 +67,7 @@ This material is stored in the Check-In team plastic bin:
 
 * **Walk-in reports of Emergencies** – use the CERT Incident Report form to gather as much information as possible. As soon as this is filled out, place the form in the clear file box, notify Operations that a walk-in Incident Report form needs to be picked up.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Once you have set up your area, continue to maintain the ICS 211B Check-In form.
 
@@ -85,7 +85,7 @@ This material is stored in the Check-In team plastic bin:
 
 * Replace your vest and supply items in the CERT Check-In team zip lock bag, place the bag in the Check-In team plastic bin and return the bin to the Demobilization team. **REPLENISH ALL ITEMS \(SUPPLIES, FORMS, ETC.\) FROM THE ARK SUPPLIES TO ENSURE THE CHECK-IN TEAM PLASTIC BIN CAN IMMEDIATELY BE USED FOR ANOTHER INCIDIENT, IF NECESSARY.**
 
-## **Questions that may be asked**
+## Questions that may be asked
 
 Q: Is there anything I can do to help?
 

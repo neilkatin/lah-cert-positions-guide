@@ -1,21 +1,21 @@
-# **CERT Redemption Area Team**
+# CERT Redemption Area Team
 
-## **Description**
+## Description
 
 The CERT Redemption Team is responsible for overseeing the receipt and distribution of items from the public.
 
-## **Responsibility**
+## Responsibility
 
 * Reports to the Logistics Lead.
 * Ensure donated material is organized into assigned locations.
 * Meet with the public in need of supplies for their families.
 * Contact Operations Lead to advise the Town of Los Altos Hills Logistics Lead that supplies are available for distribution.
 
-## **Location of Duties**
+## Location of Duties
 
 Outside the secured, taped off area of the ARK, since non-CERT folks will be dropping off and picking up material
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Redemption Area Team zip lock bag:
 
@@ -31,7 +31,7 @@ This material is stored in the Redemption Area Team zip lock bag:
 
 
 
-## **Immediate Actions**
+## Immediate Actions
 
 * Check out a radio from the Communications team.
 
@@ -53,7 +53,7 @@ This material is stored in the Redemption Area Team zip lock bag:
 
 * Keep a log of material distributed to citizens \(see Form B\).
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Keep driveway open for drop off/pick up of material using cones, yellow tape and/or barricades.
 

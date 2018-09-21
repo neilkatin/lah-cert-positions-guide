@@ -1,10 +1,10 @@
-# **Planning Lead**
+# Planning Lead
 
-## **Description**
+## Description
 
 The CERT Planning Lead is the volunteer responsible for documenting all information about the incident and developing a response plan to the Incident Commanders objectives. Included within the responsibility is to collect, display and analyze information and to report to the Incident Commander and Staff the appropriate situation and recommended actions to be taken.
 
-## **Responsibilities**
+## Responsibilities
 
 * Reports to the Incident Commander.
 
@@ -28,11 +28,11 @@ The CERT Planning Lead is the volunteer responsible for documenting all informat
 
 * Demobilization Planning.
 
-## **Location of Duties**
+## Location of Duties
 
 Set up Planning & Intelligence near the Incident Commander’s location in the CERT work area within the yellow barricade tape.
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Incident Command Plastic Bin.  Included in plastic bag:
 
@@ -40,7 +40,7 @@ This material is stored in the Incident Command Plastic Bin.  Included in plasti
 * Pens, pencils, note paper, sharpie
 * Clip boards.
 
-## **Immediate Actions \(within the first hour\)**
+## Immediate Actions \(within the first hour\)
 
 * Don the Planning and Intelligence vest.
 
@@ -50,7 +50,7 @@ This material is stored in the Incident Command Plastic Bin.  Included in plasti
 
 * Prepare Incident Action Plan.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Support Incident Commander.
 

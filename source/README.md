@@ -1,4 +1,4 @@
-# Los Altos CERT Position Guide
+# Los Altos Hills CERT Position Guide
 
 This book documents all the standard roles and responsibilities for the Los Altos Hills \(LAH\) Community Emergency Response Team \(CERT\)
 

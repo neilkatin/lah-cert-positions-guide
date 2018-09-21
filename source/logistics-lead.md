@@ -1,10 +1,10 @@
-# **Logistics Lead**
+# Logistics Lead
 
-## **Description**
+## Description
 
 The Logistics Lead is on the Incident Command \(IC\) team and reports to the Incident Commander. Logistics Lead responds to needs communicated by IC team leads for supplies and equipment. Logistics Lead is to monitor resource readiness, availability, fill out requests for supplies and equipment.
 
-## **Responsibilities**
+## Responsibilities
 
 * The Logistics Lead reports to the Incident Commander.
 
@@ -18,11 +18,11 @@ The Logistics Lead is on the Incident Command \(IC\) team and reports to the Inc
 
 * Supply request should be filled out by the Logistics Lead, submitted to the Incident Commander for their approval. Send a Supply Request form to the Town of Los Altos Hills for supplies you may need.
 
-## **Location of Duties**
+## Location of Duties
 
 CERT work area within yellow barricade tape.
 
-## **Materials Needed**
+## Materials Needed
 
 This material is stored in the Incident Command plastic bin \(ZZZ-Neil: Is this really the IC bin?\)
 
@@ -32,13 +32,13 @@ This material is stored in the Incident Command plastic bin \(ZZZ-Neil: Is this 
 * blank Org Chart
 * clipboard sharpie.
 
-## **Immediate Actions \(within first hour\)**
+## Immediate Actions \(within first hour\)
 
 * Put on the Logistics Lead vest and review the Logistics Lead job description.
 
 * Assist with setting up ARK area.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Organize & monitor Logistics staff.
 

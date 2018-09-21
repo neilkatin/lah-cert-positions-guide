@@ -1,10 +1,10 @@
 # CERT Medical Team
 
-## **Description**
+## Description
 
 The Medical Team is responsible for the triage and treatment of the injured, coordination of first aid supplies, monitor health of CERT Team members and oversees the morgue.
 
-## **Responsibility**
+## Responsibility
 
 * Reports to the Operations Lead
 
@@ -18,11 +18,11 @@ The Medical Team is responsible for the triage and treatment of the injured, coo
 
   * Personnel from Staging
 
-## **Location of Duties**
+## Location of Duties
 
 See ARK Command Post map.
 
-## **Materials Needed**
+## Materials Needed
 
 CERT Medical Team zip lock bag, which contains:
 
@@ -43,7 +43,7 @@ CERT Medical Team zip lock bag, which contains:
 * Green A-frame with Medical sign
 * Medical waste contained & red bags for medical waste
 
-## **Immediate Actions**
+## Immediate Actions
 
 * Check out a radio from the Communications Team
 
@@ -57,7 +57,7 @@ CERT Medical Team zip lock bag, which contains:
 
 * Maintain access area for ambulances – see ARK Command Post map
 
-## **Continuing Actions**
+## Continuing Actions
 
 * Create your Triage Team
 

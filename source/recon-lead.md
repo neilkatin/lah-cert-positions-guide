@@ -1,10 +1,10 @@
 # Recon Lead
 
-## **Description**
+## Description
 
 The Recon lead is in charge of managing the recon group.  Recon reports to the Operations Lead.
 
-## **Missions**
+## Missions
 
 The Recon team's tasks are to assign tasks \(from Operations\) to a particular recon unit, report completed tasks to Operations, and to track recon units in the field.
 
@@ -18,7 +18,7 @@ The Recon team will typically consist of three people:
 
 For this document, "Recon Team" refers to Recon personnel working at the ARK.  In addition there are Recon Units which are groups of Recon personnel assigned to perform tasks in the field.
 
-## **Responsibilities**
+## Responsibilities
 
 * Get tasks and priorities from Operations
   * Use pre-defined Critical Infrastructure Routes and Zone Groups to simplify "normal" tasks, allowing Operations to focus on unusual / incident specific tasks
@@ -39,11 +39,11 @@ For this document, "Recon Team" refers to Recon personnel working at the ARK.  I
 * Manage recon units
   * Ensure breaks and provisions
 
-## **Location of Duties**
+## Location of Duties
 
 Recon area of ARK
 
-## **Material Needed**
+## Material Needed
 
 * Recon containers
 * Recon radio \(in fire station training room\)
@@ -57,7 +57,7 @@ Recon area of ARK
   * Antenna
   * Antenna cable
 
-## **Immediate Actions \(within first hour\):**
+## Immediate Actions \(within first hour\):
 
 * Establish the Recon Team \(get Operations to assign personnel from Staging\)
 * Set up the Recon ham radio station
@@ -76,7 +76,7 @@ Recon area of ARK
   * The need to monitor and respond to phone calls/text messages
 * Periodically report progress to Operations
 
-## **Continuing Actions:**
+## Continuing Actions:
 
 * Periodically report task status to Operations
 

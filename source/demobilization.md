@@ -1,26 +1,26 @@
 # Demobilization Team
 
-## **Description**
+## Description
 
 
 
-## **Missions**
-
-* 
-## **Responsibilities**
+## Missions
 
 * 
-## **Location of Duties**
+## Responsibilities
+
+* 
+## Location of Duties
 
 CERT work area with-in yellow barricade tape.
 
-## **Material Needed**
+## Material Needed
 
 * 
-## **Immediate Actions \(within first hour\):**
+## Immediate Actions \(within first hour\):
 
 * 
-## **Continuing Actions:**
+## Continuing Actions:
 
 * 
 * **Do not talk to the press, or other casual or outside inquiry. Refer inquiries to the Town EOC.**

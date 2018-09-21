@@ -1,10 +1,10 @@
-# **Incident Commander**
+# Incident Commander
 
-## **Description**
+## Description
 
 The CERT Incident Commander is the overall Emergency Manager of the LAHCFD CERT organization.
 
-## **Responsibilities**
+## Responsibilities
 
 * To the Town EOC.
 
@@ -22,11 +22,11 @@ The CERT Incident Commander is the overall Emergency Manager of the LAHCFD CERT 
 
   * Inform the CERT Leads of your plan and provide a status report to the Town EOC.
 
-## **Location of Duties**
+## Location of Duties
 
 Front Door of ARK, vicinity of ARK status boards.
 
-## **Material Needed**
+## Material Needed
 
 This material is stored in the Incident Command Plastic Bin
 
@@ -38,7 +38,7 @@ This material is stored in the Incident Command Plastic Bin
 * Critical Infrastructure List
 * ICS Forms 201 \(Incident Briefing\)
 
-## **Immediate Actions \(within first hour\)**
+## Immediate Actions \(within first hour\)
 
 * Open the ARK \(Code 237890\) and retrieve the Incident Commander Plastic Bin, which will define material locations and ARK setup process & sequence.
 
@@ -52,7 +52,7 @@ This material is stored in the Incident Command Plastic Bin
 
   * Attempt to contact the Town EOC and advise status of ARK.
 
-## **Continuing Actions**
+## Continuing Actions
 
 * With Incident Command staff, review the Incident Status Board and Zone Map that are maintained by the Scribe.
 
