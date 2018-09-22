@@ -28,9 +28,3 @@ Welcome to LAHCFD CERT Positions Guide's documentation!
    Spontaneous Volunteer <spontaneous-volunteer>
 
 
-
-
-Indices and tables
-==================
-
-* :ref:`search`
