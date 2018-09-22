@@ -24,10 +24,13 @@ This material is stored in the Incident Command Plastic Bin, Staging team Bag
 * Job Description
 * ARK set up Map
 * Position Log
-* CERT Roster
 * Foothill College Map
 * Large Zone Map
 * blue tape, felt pens, tent
+
+Obtain from the *Printed Forms* box:
+
+* CERT Roster
 
 Other items to obtain:
 
@@ -40,6 +43,7 @@ Other items to obtain:
 * metal A frame
 * 4’ x 4’ white board \(to hold large zone map\)
 * Staging & Assignment board for tent
+* FRS Radio from Communications
 
 ## Immediate Actions
 

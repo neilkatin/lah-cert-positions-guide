@@ -3,11 +3,14 @@
 
 ## Description
 
-The CERT Operations Lead is designated by the Incident Commander \(IC\) and is a General Staff position on the CERT IC’s team. Operations Lead is the focal point for tactical response to incident needs and plans.
+The CERT Operations Lead is designated by the Incident Commander \(IC\) and
+is a General Staff position on the CERT IC’s team. Operations Lead is the
+focal point for tactical response to incident needs and plans.
 
 ## Missions
 
-* Implement the IC’s directions, set up the ARK and CERT work area \(see map\), assist in making personnel assignments to the CERT ARK.
+* Implement the IC’s directions, set up the ARK and CERT work area \(see map\),
+ assist in making personnel assignments to the CERT ARK.
 
 * Assign people to needed tasks while keeping in mind that personal safety is the foremost responsibility that any CERT has.
 
@@ -17,9 +20,12 @@ The CERT Operations Lead is designated by the Incident Commander \(IC\) and is a
 
 * Operation Lead generates all assignments for the incident response in accordance with the objectives established by the ARK Incident Commander.
 
-* Assist in setting up the ARK and the key supporting staff operations roles required: Communications Team, Check-In Team, Scribe, Staging Team, Logistic Lead, IT Team and Medical TeaLeadm as soon as needed.
+* Assist in setting up the ARK and the key supporting staff operations roles required:
+Communications Team, Check-In Team, Scribe, Staging Team,
+ Logistic Lead, IT Team and Medical TeaLeadm as soon as needed.
 
-* Set up ARK Organizational Chart outside in front of ARK adjacent to the bollard, using metal A frame and place names and phone numbers in proper command positions.
+* Set up ARK Organizational Chart; distribute copies of the org chart to
+your leadership team
 
 * Periodically review the Status Board.
 
@@ -37,19 +43,23 @@ CERT work area with-in yellow barricade tape.
 
 This material is stored in the Incident Command Plastic Bin
 
-* Vest. GMRS Radio
+* Vest
 * Position Log \(time sheet\)
 * Blank Org Chart
-* CERT Roster
-* Critical Infrastructure List
 * Pre-Assigned Zone List for Operations Lead
 * Clipboard
-* Assignment from Operations Lead to Staging Lead Form
 * Folding table set up by front of ARK
 * \(1\) folding chair
 * Pens, pencils, sharpie, blue tape
-* White board with Large Org Chart
-* A frame barricade for holding Org Chart.
+
+These forms are in the "Printed Forms" box:
+
+* CERT Roster
+* Critical Infrastructure List
+* Assignment from Operations Lead to Staging Lead Forms
+
+Obtain an FRS radio from Communications.
+
 
 ## Immediate Actions \(within first hour\):
 
@@ -57,7 +67,11 @@ This material is stored in the Incident Command Plastic Bin
 
 * Assist in setting up the ARK and surrounding environment.
 
-* Verify the Communications Lead has set up the Engenius Phone System inside the fire station and Ark is set up and operational.
+* Verify the Communications Lead has phone service and can get text messages
+
+* Work with Recon to establish priorities and exceptions to the pre-planned survey tasks.
+
+* Work with Staging to properly allocate personnel to current needs.
 
 ## Continuing Actions:
 

@@ -34,8 +34,11 @@ This material is stored in the Incident Command Plastic Bin
 * Pens
 * Incident Report forms
 * Red-Immedieate & Green Routine boxes
-* CERT Roster
 * General Message Form 213.
+
+Obtain from *Printed Forms* box:
+
+* CERT Roster
 
 ## Immediate Actions \(within first hour\):
 

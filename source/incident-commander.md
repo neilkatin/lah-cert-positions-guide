@@ -32,11 +32,14 @@ This material is stored in the Incident Command Plastic Bin
 
 * Vest
 * Position Log \(time sheet\)
-* ORG Chart
 * Clipboard
+* ICS Forms 201 \(Incident Briefing\)
+
+This material is in the *Printed Forms* box:
+
+* Org Chart
 * CERT Roster
 * Critical Infrastructure List
-* ICS Forms 201 \(Incident Briefing\)
 
 ## Immediate Actions \(within first hour\)
 

@@ -24,9 +24,7 @@ This material is stored in the Check-In team plastic bin:
 
 * Check-In team vest
 * Check-In team job description
-* T-card Box with alphabetized T-cards
 * Incident Report information sheet
-* Current roster of all CERTs in LAHCFD
 * ICS 211B Check-In forms
 * Pens \(6\)
 * Pencils \(6\)
@@ -46,6 +44,12 @@ This material is stored in the Check-In team plastic bin:
 * Tent from ARK
 * 6’ table \(1\)
 * Folding Chairs \(2\)
+
+Obtain from the *Printed Forms* box:
+
+* T-card Box with alphabetized T-cards
+* Current CERT roster
+
 
 ## Immediate Actions
 

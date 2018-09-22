@@ -30,12 +30,15 @@ This material is stored in the Incident Command Plastic Bin
 * LAH Trails map
 * LAH AAA Map
 * Position Log \(time sheet\)
-* CERT Roster
-* Critical Infrastructure List
 * Paper tablet
 * magnetic clips
 * post it note pad
 * green box
+
+Obtain from the *Printed Forms* box:
+
+* CERT Roster
+* Critical Infrastructure List
 
 Additional materials needed in the ARK:
 
