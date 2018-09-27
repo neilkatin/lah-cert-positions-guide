@@ -29,9 +29,9 @@ author = 'LAHCFD CERT Team'
 github_doc_root = 'https://github.com/neilkatin/lahcfd-cert-positions-guide/master/docs/'
 
 # The short X.Y version
-version = '0.1'
+version = '0.5'
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '0.5'
 
 
 # -- General configuration ---------------------------------------------------

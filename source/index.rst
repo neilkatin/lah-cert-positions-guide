@@ -11,7 +11,7 @@ Welcome to LAHCFD CERT Positions Guide's documentation!
    :caption: Contents:
    :numbered:
 
-   Introduction <README.md>
+   Introduction <introduction.md>
    Incident Commander <incident-commander>
    Operations Lead <operations-lead>
    Recon Lead <recon-lead>
