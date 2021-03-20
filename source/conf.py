@@ -45,6 +45,7 @@ release = '0.5'
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
+    'recommonmark',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
