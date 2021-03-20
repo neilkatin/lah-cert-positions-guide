@@ -25,3 +25,5 @@ help:
 autobuild:
 	sphinx-autobuild -b html $(SPHINXAUTO) --ignore "*.swp" "$(SOURCEDIR)" "$(BUILDDIR)"
 
+remake_requirements:
+	pipenv lock -r > requirements.txt
