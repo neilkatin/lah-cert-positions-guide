@@ -43,7 +43,7 @@ This material is in the *Printed Forms* box:
 
 ## Immediate Actions \(within first hour\)
 
-* Open the ARK \(Code 237890\) and retrieve the Incident Commander Plastic Bin, which will define material locations and ARK setup process & sequence.
+* Open the ARK and retrieve the Incident Commander Plastic Bin, which will define material locations and ARK setup process & sequence.
 
 * Put on the Incident Commander vest and review the job description.
 
@@ -75,7 +75,7 @@ This material is in the *Printed Forms* box:
 
   * Post the schedule
 
-  * Confirm going-off-duty leads brief New on-duty leads prior to going off duty.
+  * Confirm shift change: going-off-duty leads have briefed the new on-duty leads prior to going off duty.
 
   * Make sure your staff gets breaks to decompress, eat, hydrate, etc.
 
