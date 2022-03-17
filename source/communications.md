@@ -13,7 +13,7 @@ text, GMRS radio traffic.
 
 * Monitor the CERT cell phone for voice mails and texts
 
-* Log all communications on a ICS-309 Message Log form.
+* Log all communications on a ICS-309 Communcations Log form.
 
 * Issue GMRS radios to all staff that require it.
 
@@ -41,7 +41,7 @@ This material is stored in the Communications Officer Plastic Bin
 * Incident Report forms (20 copies)
 * ICS-213 Message forms (20 copies)
 * ICS-214 Unit Activity Log (2 copies)
-* ICS-309 message log (10 copies)
+* ICS-309 Communcations Log (10 copies)
 
 Forms can be printed from CERT-IT if you need additional forms.
 
