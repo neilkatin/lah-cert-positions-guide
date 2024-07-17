@@ -8,3 +8,10 @@ The guide is published at [our website](https://cert.lahcfd.org/procedures-and-d
 
 We use [readthedocs.io](https://readthedocs.ior) to compile and rebuild the documentation.  The url is [https://lah-cert-positions-guide.readthedocs.io/](https://lah-cert-positions-guide.readthedocs.io/en/latest/)
 
+To build the docs:
+
+* run pip install --local pipenv
+* add $HOME/.local/bin to your path if needed
+* install the `sphinx` system package
+* run pipenv run make
+
