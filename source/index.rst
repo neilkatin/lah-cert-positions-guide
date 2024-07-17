@@ -13,15 +13,15 @@ Welcome to LAHCFD CERT Positions Guide's documentation!
 
    Introduction <introduction.md>
    Incident Commander <incident-commander.md>
-   Operations Lead <operations-lead.md>
-   Recon Lead <recon-lead.md>
+   Operations Team <operations-lead.md>
+   Recon Team <recon-lead.md>
    Communications <communications.md>
    Medical <medical.md>
    Planning  Lead <planning-lead.md>
    IT Team <it-team.md>
    Scribe <scribe.md>
    Demobilization <demobilization.md>
-   Logistics Lead <logistics-lead.md>
+   Logistics Team <logistics-lead.md>
    Staging <staging.md>
    Check-in <check-in>
    Redemption <redemption.md>

@@ -1,5 +1,5 @@
 
-# Operations Lead
+# Operations Team
 
 ## Description
 
@@ -16,22 +16,23 @@ focal point for tactical response to incident needs and plans.
 
 ## Responsibilities
 
+For more information about Operations and Recon procedures, see the
+[LAH CERT Operations Procedures](https://lah-cert-ops-documentation.readthedocs.io/en/latest/index.html)
+document
+
 * Operations Lead reports directly to the Incident Commander.
 
 * Operation Lead generates all assignments for the incident response in accordance with the objectives established by the ARK Incident Commander.
 
+
 * Assist in setting up the ARK and the key supporting staff operations roles required:
 Communications Team, Check-In Team, Scribe, Staging Team,
- Logistic Lead, IT Team and Medical TeaLeadm as soon as needed.
+ Logistic Team, IT Team and Medical Team as soon as needed.
 
 * Set up ARK Organizational Chart; distribute copies of the org chart to
 your leadership team
 
 * Periodically review the Status Board.
-
-* Fill out CERT “Assignment From Operations Lead To Staging Lead Forms”, using the Pre-assigned Zone list. \(Operations Lead will also have this Pre-assigned zone list\).
-
-* Monitor large CERT Zone map in Scribe Area, to make sure all CERT Zones are being checked using available recourses.
 
 * Maintain security of the ARK operating area.
 
@@ -44,9 +45,7 @@ CERT work area with-in yellow barricade tape.
 This material is stored in the Incident Command Plastic Bin
 
 * Vest
-* Position Log \(time sheet\)
 * Blank Org Chart
-* Pre-Assigned Zone List for Operations Lead
 * Clipboard
 * Folding table set up by front of ARK
 * \(1\) folding chair
@@ -56,7 +55,9 @@ These forms are in the "Printed Forms" box:
 
 * CERT Roster
 * Critical Infrastructure List
-* Assignment from Operations Lead to Staging Lead Forms
+* LAH 102 Incident Report Form (10)
+* Ops Assignment form (10)
+* Staging Assignment form (10)
 
 Obtain an FRS radio from Communications.
 
@@ -77,13 +78,15 @@ Obtain an FRS radio from Communications.
 
 * With Incident Commander and the Command staff, review the ARK Incident Map and the Incident Status Sheets that are maintained by the Scribe.
 
+  * review incoming Incident Reports
+
   * Prioritize the incidents.
 
-  * Use the Pre-Assigned Zone List for Operations Lead in your decision-making.
+  * Assign tasks to teams (typically Recon) via the Ops Assignment form
+
+  * Assign people from staging to a team via the Staging Assignment form
 
   * Act on requests from the Incident Commander.
-
-  * Continually review Zone Map to ensure that all zones are being checked.
 
 * Place CERT Banner on wooden fence, North side of ARK.
 

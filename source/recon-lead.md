@@ -1,4 +1,4 @@
-# Recon Lead
+# Recon Team
 
 ## Description
 
@@ -10,24 +10,32 @@ The Recon team's tasks are to assign tasks \(from Operations\) to a particular r
 
 The division of labor between Operations and Recon is: Operations is in charge of deciding what should be done; Recon does the administrative tasks to track and perform the work.
 
-The Recon team will typically consist of three people:
+The Recon team will typically consist of three or four people:
 
 * A Recon Lead, in charge of managing the group and accomplishing Recon's goals.
-* Recon Net Control Operator
-* A scribe/runner
+* Recon Net Control Operator (and possibly a scribe)
+* A recon assistant / runner
 
 For this document, "Recon Team" refers to Recon personnel working at the ARK.  In addition there are Recon Units which are groups of Recon personnel assigned to perform tasks in the field.
 
 ## Responsibilities
 
+For more information about Operations and Recon procedures, see the
+[LAH CERT Operations Procedures](https://lah-cert-ops-documentation.readthedocs.io/en/latest/index.html)
+document
+
+* If  there are no higher priority tasks: use the Preplanned route list to assign tasks to field teams
 * Get tasks and priorities from Operations
-  * Use pre-defined Critical Infrastructure Routes and Zone Groups to simplify "normal" tasks, allowing Operations to focus on unusual / incident specific tasks
+  * track using the 'Ad Hoc' sheet
 * Track each Recon Unit's current assignment
 * Track tasks through their lifecycle: unassigned; assigned \(to recon unit\); complete
 * Report completed tasks to Operations
+  * use Preplanned and Ad Hoc status sheets
+  * send copies to Planning, Scribe, and IT teams
 * Receive incident reports from Recon Units
-  * Assign incident numbers
-  * Forward incident reports to Operations
+  * assign incident numbers
+  * forward incident reports to Operations
+  * send copies to Planning, Scribe, and IT teams
 * Assign tasks to Recon Units as necessary
 * Manage the ARK recon personnel
 * Brief recon units
@@ -56,6 +64,15 @@ Recon area of ARK
   * Antenna mast
   * Antenna
   * Antenna cable
+* Printer/copier
+
+Forms from printed forms box:
+  * LAH 102 Incident Form (10)
+  * Preplanned tracking form (1)
+  * Ad Hoc tracking form (1)
+  * ICS 213 message form (10)
+  * ICS 309 message log (10)
+
 
 ## Immediate Actions \(within first hour\):
 
