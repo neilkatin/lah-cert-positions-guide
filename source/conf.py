@@ -29,9 +29,9 @@ author = 'LAHCFD CERT Team'
 github_doc_root = 'https://github.com/neilkatin/lahcfd-cert-positions-guide/master/docs/'
 
 # The short X.Y version
-version = '1.0'
+version = '1.0.1'
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = '1.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -184,6 +184,9 @@ epub_copyright = copyright
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+today_fmt = '%Y-%m-%d %H:%M'
+html_last_updated_fmt = '%Y-%m-%d %H:%M'
 
 
 # -- Extension configuration -------------------------------------------------
