@@ -23,7 +23,6 @@ This material is stored in the Incident Command Plastic Bin, Staging team Bag
 * Vest
 * Job Description
 * ARK set up Map
-* Position Log
 * Foothill College Map
 * Large Zone Map
 * blue tape, felt pens, tent

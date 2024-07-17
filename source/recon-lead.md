@@ -2,7 +2,7 @@
 
 ## Description
 
-The Recon lead is in charge of managing the recon group.  Recon reports to the Operations Lead.
+The Recon lead is in charge of managing the recon group.  The Recon Lead reports to the Operations Lead.
 
 ## Missions
 
@@ -66,12 +66,13 @@ Recon area of ARK
   * Antenna cable
 * Printer/copier
 
-Forms from printed forms box:
-  * LAH 102 Incident Form (10)
-  * Preplanned tracking form (1)
-  * Ad Hoc tracking form (1)
-  * ICS 213 message form (10)
-  * ICS 309 message log (10)
+Ask Planning Scribe for forms from the *Printed Forms* box:
+
+  * Incident Form (LAH 102) (x10)
+  * Preplanned tracking form (x1)
+  * Ad Hoc tracking form (x1)
+  * Message form (ICS 213) (x10)
+  * Message log (ICS 309) (x10)
 
 
 ## Immediate Actions \(within first hour\):

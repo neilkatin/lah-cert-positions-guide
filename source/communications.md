@@ -45,7 +45,7 @@ This material is stored in the Communications Officer Plastic Bin
 
 Forms can be printed from CERT-IT if you need additional forms.
 
-Obtain from *Printed Forms* box, or ask CERT-IT to print out:
+Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * CERT Roster
 

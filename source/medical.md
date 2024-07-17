@@ -27,12 +27,10 @@ See ARK Command Post map.
 CERT Medical Team zip lock bag, which contains:
 
 * CERT Medical Team vest
-* Job Description \(2\) – keep one for your replacement
 * Clipboard \(1\)
 * Pens \(4\)
 * Paper tablet
 * Patient Log \(4\)
-* Position Log \(time sheet\)
 * Space blankets \(10\)
 * Large Red First Aid bag from ARK
 * Triage tarps \(4\)
@@ -42,6 +40,11 @@ CERT Medical Team zip lock bag, which contains:
 * Chairs \(1\)
 * Green A-frame with Medical sign
 * Medical waste contained & red bags for medical waste
+
+Ask Planning Scribe for forms from the *Printed Forms* box:
+
+* Position Guide (this document)
+* Triage tracking forms (x10)
 
 ## Immediate Actions
 

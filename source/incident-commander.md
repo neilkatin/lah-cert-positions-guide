@@ -31,11 +31,9 @@ Front Door of ARK, vicinity of ARK status boards.
 This material is stored in the Incident Command Plastic Bin
 
 * Vest
-* Position Log \(time sheet\)
 * Clipboard
-* ICS Forms 201 \(Incident Briefing\)
 
-This material is in the *Printed Forms* box:
+Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Org Chart
 * CERT Roster

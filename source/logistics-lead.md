@@ -27,7 +27,6 @@ The main logistics area is right outside the ARK
 This material is stored in the Incident Command plastic bin \(ZZZ-Neil: Is this really the IC bin?\)
 
 * Vest
-* Position Log \(time sheet\)
 * CERT Roster
 * blank Org Chart
 * clipboard sharpie.

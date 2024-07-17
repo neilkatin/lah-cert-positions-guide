@@ -1,4 +1,4 @@
-# Planning Lead
+# Planning Team
 
 ## Description
 

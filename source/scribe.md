@@ -1,12 +1,12 @@
-# Scribe
+# Planning Scribe
 
 ## Description
 
-The Scribe is responsible for receiving data and information from the Communication and/or Operations Lead and placing such information in assigned areas on the ARK boards.
+The Planning Scribe is responsible for receiving data and information from the Communication and/or Operations Lead and placing such information in assigned areas on the ARK boards.
 
 ## Responsibilities
 
-* Reports to Operations Lead.
+* Reports to Planning Lead.
 
 * When given information place the information on the various status boards.
 
@@ -18,7 +18,7 @@ On the right side of the ARK, near where the white boards mount to the ARK.
 
 ## Material Needed
 
-This material is stored in the Incident Command Plastic Bin
+This material is stored in the Planning Scribe Plastic Bin
 
 * Vest
 * Large plastic bag
@@ -29,16 +29,16 @@ This material is stored in the Incident Command Plastic Bin
 * \(2\) status sheets
 * LAH Trails map
 * LAH AAA Map
-* Position Log \(time sheet\)
 * Paper tablet
 * magnetic clips
 * post it note pad
 * green box
 
-Obtain from the *Printed Forms* box:
+Get these forms from the *Printed Forms* box:
 
 * CERT Roster
 * Critical Infrastructure List
+* Position Guide
 
 Additional materials needed in the ARK:
 
@@ -47,9 +47,11 @@ Additional materials needed in the ARK:
 
 ## Immediate Actions \(within first hour\)
 
-* Put on the Scribe vest and review the Scribe job description.
+* Put on the Planning Scribe vest and review the Planning Scribe job description.
 
 * Set up your workstation, assist in placing of Status Boards on ARK wall.
+
+* Planning Scribe is resposible for distributing forms from the *Printed Forms* box to the other teams.  If there are not enough copies you can copy existing ones or get IT to print more copies.
 
 * White boards need to be placed on wall outside of ARK. Maps and other material need to be placed in appropriate locations on wallboards.
 
@@ -65,11 +67,11 @@ Additional materials needed in the ARK:
 
 * **Do Not Leave Your Post.** If you need a break, contact Operations Lead for relief.
 
-* **When there is a shift change, turn all Scribe materials over to your replacement AND provide them with any information they will need to successfully perform their duties.**
+* **When there is a shift change, turn all Planning Scribe materials over to your replacement AND provide them with any information they will need to successfully perform their duties.**
 
 * During demobilization, ensure all copies of messages \(incoming & outgoing\) are turned over to the Demobilization team so the documents can be filed in the ARK for documentation purposes and future use by Finance.
 
-*  Replace your vest and supply items in the Scribe zip lock bag, place the bag in the Incident Command plastic bin and return the bin to the Demobilization team.
+*  Replace your vest and supply items in the Planning Scribe zip lock bag, place the bag in the Incident Command plastic bin and return the bin to the Demobilization team.
 * **REPLENISH ALL ITEMS \(SUPPLIES, FORMS, ETC.\) FROM THE ARK**
 
 

@@ -10,7 +10,7 @@ focal point for tactical response to incident needs and plans.
 ## Missions
 
 * Implement the IC’s directions, set up the ARK and CERT work area \(see map\),
- assist in making personnel assignments to the CERT ARK.
+assist in making personnel assignments to the CERT ARK.
 
 * Assign people to needed tasks while keeping in mind that personal safety is the foremost responsibility that any CERT has.
 
@@ -51,11 +51,11 @@ This material is stored in the Incident Command Plastic Bin
 * \(1\) folding chair
 * Pens, pencils, sharpie, blue tape
 
-These forms are in the "Printed Forms" box:
+Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * CERT Roster
 * Critical Infrastructure List
-* LAH 102 Incident Report Form (10)
+* Incident Report Form (LAH 102) (10)
 * Ops Assignment form (10)
 * Staging Assignment form (10)
 

@@ -19,7 +19,7 @@ Welcome to LAHCFD CERT Positions Guide's documentation!
    Medical <medical.md>
    Planning  Lead <planning-lead.md>
    IT Team <it-team.md>
-   Scribe <scribe.md>
+   Planning Scribe <scribe.md>
    Demobilization <demobilization.md>
    Logistics Team <logistics-lead.md>
    Staging <staging.md>

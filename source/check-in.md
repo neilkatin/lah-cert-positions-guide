@@ -23,32 +23,30 @@ See ARK Command Post map.
 This material is stored in the Check-In team plastic bin:
 
 * Check-In team vest
-* Check-In team job description
 * Incident Report information sheet
-* ICS 211B Check-In forms
 * Pens \(6\)
 * Pencils \(6\)
 * Erasers \(2\)
 * Blue tape
-* Clear file box “Completed Zone Survey Forms” to collect completed zone survey forms from returning CERT members
-* Blank paper for notes
-* Position Log \(time sheet\)
+* Blank paper for notes (AKA Form 1)
 * Colored wristbands
-* CERT Incident Report forms \(approximately 50\)
-* ARK set up map
 * Foothill College map
-* Clipboard
+* Clipboards
 * Name tags
 * Black felt pen
 * CERT Check-In tent banner
-* Tent from ARK
+* Canopy from ARK   (2024-07 note from Neil: do we still need this for check-in?)
 * 6’ table \(1\)
 * Folding Chairs \(2\)
-
-Obtain from the *Printed Forms* box:
-
 * T-card Box with alphabetized T-cards
+
+Ask Planning Scribe for forms from the *Printed Forms* box:
+
 * Current CERT roster
+* Position Log (ICS 214): x30
+* CERT Incident Report forms (LAH 102) \(approximately 10\)
+* Check-in Forms (ICS 211B) 
+* Position Guide (this document)
 
 
 ## Immediate Actions

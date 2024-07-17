@@ -27,14 +27,12 @@ Work in IT tent, coordinate with Scribe/Planning
 
 ## Material Needed
 
-* Tent
+* Canopy
 * Table, chairs
 * AC power: extension cords, power strips
 * Windows laptop computers (2)
 * Multifunction printer/copier/scanner
 * LAHCFD CERT IT Ops Manual
-* Local Wi-Fi router
-* Wi-Fi bridge to Fire Station internet
 
 ## Immediate Actions \(within first hour\):
 
