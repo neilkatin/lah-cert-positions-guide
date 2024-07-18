@@ -7,14 +7,14 @@ The Staging team is responsible to keep all CERT’s in Staging until they are a
 ## Responsibility
 
 * Reports to the Logistics Lead.
-* Assign CERT members from Staging to Assignment From Operations Lead
+* Assign CERT members from Staging to Assignment based on directions from the Operations Lead
 * The Staging team will also be in charge of water and snacks for CERT members in Staging area.
-* Collect and Track CERT members using T Card system on A frame board.
+* Collect and Track CERT members and their current assignment using T Card system on A frame board.
 * Check CERT members have proper PPE. If CERT member does not have proper PPE, they can be possibly utilized in the ARK Command area.
 
 ## Location of Duties
 
- See ARK Command Post map.
+See ARK Command Post map.
 
 ## Materials Needed
 

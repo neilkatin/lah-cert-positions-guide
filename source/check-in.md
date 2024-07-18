@@ -43,7 +43,7 @@ This material is stored in the Check-In team plastic bin:
 Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Current CERT roster
-* Position Log (ICS 214): x30
+* Activity Log (ICS 214): x30
 * CERT Incident Report forms (LAH 102) \(approximately 10\)
 * Check-in Forms (ICS 211B) 
 * Position Guide (this document)
@@ -61,11 +61,11 @@ Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Place ICS 211B Check-In forms on clipboards.
 
+* Make sure all certs have an Activity Log (ICS 214)
+
 * Ensure all personnel prior to you being ready for check-in have signed in, have wristbands and their T-cards have been placed in the Staging team T-card rack.
 
 * Make sure **ALL** personnel sign in and then sign out at the end of their shift.
-
-* Maintain a Position Log \(time sheet\).
 
 * **Walk-in reports of Emergencies** – use the CERT Incident Report form to gather as much information as possible. As soon as this is filled out, place the form in the clear file box, notify Operations that a walk-in Incident Report form needs to be picked up.
 
