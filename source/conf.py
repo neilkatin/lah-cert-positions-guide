@@ -23,7 +23,7 @@ from recommonmark.transform import AutoStructify
 # -- Project information -----------------------------------------------------
 
 project = 'LAHCFD CERT Positions Guide'
-copyright = '2018-2021, LAHCFD CERT Team'
+copyright = '2018-2024, LAHCFD CERT Team'
 author = 'LAHCFD CERT Team'
 
 github_doc_root = 'https://github.com/neilkatin/lahcfd-cert-positions-guide/master/docs/'
