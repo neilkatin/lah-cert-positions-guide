@@ -6,11 +6,11 @@ The CERT Incident Commander is the overall Emergency Manager of the LAHCFD CERT 
 
 ## Responsibilities
 
-* To the Town EOC.
+* Reports to the Town EOC.
 
 * Overall management of the CERT response to the incident.
 
-  * Assignment of the team members to their positions in the Incident Command System..
+  * Assignment of the team members to their positions in the Incident Command System.
 
 * Ensure that ARK and CERT resources are used in addressing the incident.
 
@@ -59,13 +59,15 @@ Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Review the Zone Map with Operations Lead to confirm priorities and that they have been assigned to Staging for assignments.
 
-  * Act if possible on requests from the Town EOC.
+  * Act, if possible, on requests from the Town EOC.
 
   * Review and act upon other matters requiring the attention of the Incident Command staff.
 
+* Monitor Ark Command Staff activities, fix bottlenecks, ensure safety procedures are being followed.
+
 * Establish a regular schedule for staff meetings.
 
-* Confirm that the Communications team has established a regular communications link with the Town at the Town EOC
+* Confirm that the Communications team has established a communications link with the Town EOC
 
 * Confirm you both are using the same zone map and have the same incidents and status posted.
 
