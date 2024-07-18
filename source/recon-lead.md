@@ -25,7 +25,7 @@ For more information about Operations and Recon procedures, see the
 document
 
 * If  there are no higher priority tasks: use the Preplanned route list to assign tasks to field teams
-* Get tasks and priorities from Operations
+* Get tasks and priorities from Operations via the Ops Assignment form
   * track using the 'Ad Hoc' sheet
 * Track each Recon Unit's current assignment
 * Track tasks through their lifecycle: unassigned; assigned \(to recon unit\); complete
@@ -33,10 +33,10 @@ document
   * use Preplanned and Ad Hoc status sheets
   * send copies to Planning, Scribe, and IT teams
 * Receive incident reports from Recon Units
-  * assign incident numbers
+  * assign incident numbers (format: Rdddd where dddd starts from 1000 and increments)
   * forward incident reports to Operations
   * send copies to Planning, Scribe, and IT teams
-* Assign tasks to Recon Units as necessary
+* Assign tasks to available Recon Units
 * Manage the ARK recon personnel
 * Brief recon units
   * Brief before they leave the ARK
