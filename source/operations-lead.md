@@ -53,6 +53,7 @@ This material is stored in the Incident Command Plastic Bin
 
 Ask Planning Scribe for forms from the *Printed Forms* box:
 
+* Position Guide (this document)
 * CERT Roster
 * Critical Infrastructure List
 * Incident Report Form (LAH 102) (10)
