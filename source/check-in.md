@@ -55,19 +55,19 @@ Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Put on the Check-In team vest.
 
-* Set up your workstation, which includes \(1\) 3’ x 6’ white table, \(2\) folding chairs, \(1\) green A-frame with Check-In sign attached, \(1\) tent.
+* Set up your workstation, which includes \(1\) 3’ x 6’ white table, \(2\) folding chairs, \(1\) green A-frame with Check-In sign attached, \(1\) canopy.
 
-* If needed, assist a Facilities Expert in making a divider or feeder point for the Check-In table.
+* If needed, assist a Facilities Expert (not defined) in making a divider or feeder point for the Check-In table.
 
-* Place ICS 211B Check-In forms on clipboards.
+* Place ICS 211B Check-In forms on clipboards, put out 2 pens.
 
-* Make sure all certs have an Activity Log (ICS 214)
+* Make sure all certs get an Activity Log (ICS 214)
 
-* Ensure all personnel prior to you being ready for check-in have signed in, have wristbands and their T-cards have been placed in the Staging team T-card rack.
+* Ensure all personnel that arrived prior to you being ready for check-in have signed in, have wristbands and their T-cards have been placed in the Staging team T-card rack.
 
 * Make sure **ALL** personnel sign in and then sign out at the end of their shift.
 
-* **Walk-in reports of Emergencies** – use the CERT Incident Report form to gather as much information as possible. As soon as this is filled out, place the form in the clear file box, notify Operations that a walk-in Incident Report form needs to be picked up.
+* **Walk-in reports of Emergencies** – use the CERT Incident Report form to gather as much information as possible. As soon as this is filled out, place the form in the clear file box. Immediately notify Operations that a walk-in Incident Report form needs to be picked up.
 
 ## Continuing Actions
 
@@ -75,11 +75,11 @@ Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * CERTs and Hams will be checking in and out – keep ICS 211B form current.
 
-* Notify Operations to have the Large LAHCFD banner brought to Check-In and attached to Check-In tent.
+* Notify Operations to have the Large LAHCFD banner brought to Check-In and attached to Check-In canopy.
 
 * **Do Not Leave Your Post.** If you need a break, contact Operations for relief.
 
-* Refer all inquiries about the incident to the Town EOC PIO.
+* Refer all inquiries about the incident to the Town's Public Information Officer.
 
 * When there is a shift change, turn all Check-In team materials over to your replacement AND provide them with any information they will need to successfully perform their duties.
 

@@ -59,7 +59,7 @@ Ask Planning Scribe for forms from the *Printed Forms* box:
 
 * Use the ICS 214 Unit Activity Log form which describes major actions taken during your shift.
 
-* Log messages on ICS 309 communcations log
+* Log messages on ICS 309 communications log
 
 * Non critical information received via phone, text, GMRS radio log them on the General Message Form 213.
 
