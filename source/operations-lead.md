@@ -22,12 +22,13 @@ document
 
 * Operations Lead reports directly to the Incident Commander.
 
-* Operation Lead generates all assignments for the incident response in accordance with the objectives established by the ARK Incident Commander.
+* Operation Lead generates all assignments for the incident response in
+accordance with the objectives established by the ARK Incident Commander.
 
 
 * Assist in setting up the ARK and the key supporting staff operations roles required:
 Communications Team, Check-In Team, Scribe, Staging Team,
- Logistic Team, IT Team and Medical Team as soon as needed.
+Logistic Team, IT Team and Medical Team as soon as needed.
 
 * Set up ARK Organizational Chart; distribute copies of the org chart to
 your leadership team
@@ -71,7 +72,7 @@ Obtain an FRS radio from Communications.
 
 * Verify the Communications Lead has phone service and can get text messages
 
-* Work with Recon to establish priorities and exceptions to the pre-planned survey tasks.
+* Work with Recon to establish priorities and additions to the pre-planned survey tasks.
 
 * Work with Staging to properly allocate personnel to current needs.
 
@@ -79,7 +80,7 @@ Obtain an FRS radio from Communications.
 
 * With Incident Commander and the Command staff, review the ARK Incident Map and the Incident Status Sheets that are maintained by the Scribe.
 
-  * review incoming Incident Reports
+  * Review incoming Incident Reports
 
   * Prioritize the incidents.
 
